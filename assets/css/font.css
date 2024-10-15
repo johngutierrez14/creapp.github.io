@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Amsterdam";
+  src: url("../font/AmsterdamFour_ttf_400.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Cinzel_Decorative";
+  src: url("../font/Cinzel_Decorative.ttf") format("truetype");
+}
+
+.footer_title {
+  font-family: Amsterdam, sans-serif;
+  font-weight: 100;
+}
